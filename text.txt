@@ -5,7 +5,8 @@ This is a multi-functional bot; its primary features include global chat, a welc
 You can view it on GitHub or the official website.
 
 Server Members Intent
-This feature is required to send a welcome message and greet members when they join.
+This is required to send a welcome message and greet members when they join.
+This feature cannot be implemented without the Server Members Intent.
 
 Presence Intent
 "Presence Intent" is required to instantly share the songs members are listening to and to immediately retrieve details or descriptions of those tracks.
