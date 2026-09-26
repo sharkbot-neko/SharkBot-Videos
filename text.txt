@@ -1,0 +1,17 @@
+アプリケーションの詳細
+This is a multi-functional bot; its primary features include global chat, a welcome function for new members, and the ability to display details about the songs members are currently listening to, allowing for the quick sharing of song information and descriptions.
+
+プライバシーポリシーはどこで閲覧できますか？
+You can view it on GitHub or the official website.
+
+Server Members Intent
+This feature is required to send a welcome message and greet members when they join.
+
+Presence Intent
+"Presence Intent" is required to instantly share the songs members are listening to and to immediately retrieve details or descriptions of those tracks.
+This feature enables members to quickly discover songs that others are interested in, thereby fostering interaction among them.
+Furthermore, it is impossible to implement this feature without "Presence Intent."
+
+Message Content Intent
+The "Message Content Intent" is required for features such as automatically translating messages posted in one channel into another, or connecting chats across servers to enable cross-server communication. Without this "Message Content Intent," it is not possible to implement these features.
+
